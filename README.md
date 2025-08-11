@@ -1,16 +1,20 @@
-## Hi there 👋
+## Profile Summary
 
-<!--
-**parshant0717/parshant0717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Full Stack Developer with a strong foundation in front-end and back-end technologies. Currently a student, passionate about building responsive and user-friendly web applications. Skilled in HTML, CSS, JavaScript, TailwindCSS, React.js, and SQL. Eager to learn new technologies and contribute to real-world projects while continuously improving my development skills.
 
-Here are some ideas to get you started:
+**Key Skills:**
+- HTML5, CSS3, TailwindCSS
+- JavaScript (ES6+)
+- React.js
+- SQL (Basic database design and queries)
+- Responsive Web Design
+- Version Control (Git basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Learning Objectives:**
+- Deepen understanding of full stack concepts
+- Gain hands-on experience through projects
+- Collaborate with teams and open source communities
+
+---
+
+*Open to opportunities for internships, collaborations, and project-based learning.*
