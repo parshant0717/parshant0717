@@ -54,7 +54,9 @@
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parshant0717&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="parshant0717's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parshant0717&layout=compact&theme=tokyonight&hide_border=true" alt="parshant0717's Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parshant0717&theme=tokyonight&hide_border=true" alt="parshant0717's Top Languages" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=parshant0717&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
