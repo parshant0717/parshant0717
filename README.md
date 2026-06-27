@@ -4,10 +4,6 @@
 ### A Passionate Front-End Developer from India 🇮🇳
 
 <p align="center">
-  <em>I love building beautiful and responsive user interfaces that solve real-world problems.</em>
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/parshant0717">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -22,15 +18,11 @@
 
 ---
 
-### 🚀 About Me
+### 🎯 My Goals
 
-- 🔭 I’m currently working on projects for **Team Shiksha**.
-- 🌱 I’m currently focused on mastering **React** and its ecosystem.
-- 👯 I’m eager to collaborate on impactful **Open Source Projects**.
-- 🤔 I’m seeking guidance and sharpening my skills in **Data Structures & Algorithms**.
-- 💬 Ask me anything about **HTML, CSS, JavaScript,** and **React**.
-- 📫 You can reach me at: **parshantsingh0717@gmail.com**.
-
+- Deepen my understanding of full-stack development concepts.
+- Gain more hands-on experience through challenging projects.
+- Contribute to open-source communities and Build ideas that solves impactfull problems.
 ---
 
 ### 🛠️ My Tech Stack
@@ -70,15 +62,8 @@
 </details>
 
 ---
-
-### 🎯 My Goals
-
-- Deepen my understanding of full-stack development concepts.
-- Gain more hands-on experience through challenging projects.
-- Actively contribute to the open-source community.
-
 <br>
 
 <p align="center">
-  <strong>🚀 Open to internship opportunities, collaborations, and project-based learning!</strong>
+  <strong> Open to internship opportunities, collaborations and freelancing gigs!</strong>
 </p>
