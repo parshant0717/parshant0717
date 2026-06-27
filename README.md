@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hi there, I'm Parshant Singh 👋
-### A Passionate Front-End Developer from India 🇮🇳
+### A Full Stack Developer from India 🇮🇳
 
 <p align="center">
   <a href="https://linkedin.com/in/parshant0717">
